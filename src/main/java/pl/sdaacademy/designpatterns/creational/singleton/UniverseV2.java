@@ -1,4 +1,4 @@
-package pl.sdaacademy.designpatterns_creational.singleton;
+package pl.sdaacademy.designpatterns.creational.singleton;
 
 public class UniverseV2 {
     private static UniverseV2 instance = new UniverseV2();

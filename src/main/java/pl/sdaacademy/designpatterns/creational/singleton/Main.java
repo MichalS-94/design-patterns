@@ -1,4 +1,4 @@
-package pl.sdaacademy.designpatterns_creational.singleton;
+package pl.sdaacademy.designpatterns.creational.singleton;
 
 import java.time.LocalDate;
 

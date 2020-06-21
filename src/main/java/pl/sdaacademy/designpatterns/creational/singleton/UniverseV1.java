@@ -1,4 +1,4 @@
-package pl.sdaacademy.designpatterns_creational.singleton;
+package pl.sdaacademy.designpatterns.creational.singleton;
 
 public enum UniverseV1 {
     INSTANCE;
